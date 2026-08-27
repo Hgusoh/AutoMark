@@ -1,4 +1,4 @@
-# Watermark PDF / PNG
+# Watermark PDF / PNG (Version 1.0.0: 2026-08-27)
 
 A simple, single-page web app to bulk-add a watermark to PDF and PNG files, directly in the browser — no upload, no server, no installation.
 
