@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#212529"/>
+
+  <!-- page (avec coin plié) -->
+  <path d="M18 8 H40 L46 14 V56 H18 Z" fill="#ffffff"/>
+  <path d="M40 8 V14 H46 Z" fill="#ced4da"/>
+
+  <!-- lignes de texte -->
+  <rect x="22" y="22" width="18" height="3" fill="#adb5bd"/>
+  <rect x="22" y="29" width="18" height="3" fill="#adb5bd"/>
+  <rect x="22" y="36" width="12" height="3" fill="#adb5bd"/>
+
+  <!-- bande de filigrane diagonale -->
+  <rect x="4" y="29" width="56" height="9" fill="#0d6efd" opacity="0.6" transform="rotate(-30 32 32)"/>
+</svg>
