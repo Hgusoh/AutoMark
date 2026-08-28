@@ -2,6 +2,8 @@
 
 A simple, single-page web app to bulk-add a watermark to PDF and PNG files, directly in the browser — no upload, no server, no installation.
 
+🔗 **Live demo:** [https://hgusoh.github.io/AutoMark/](https://hgusoh.github.io/AutoMark/)
+
 ## What it does
 
 1. Pick a source folder (recursively scanned for `.pdf` and `.png` files)
