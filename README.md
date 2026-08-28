@@ -15,7 +15,6 @@ All processing happens locally in your browser. No file ever leaves your compute
 
 ## Tech stack
 
-- Vanilla JavaScript (no framework, no build step, no modules — plain `<script>` tags so it also works when opened directly via `file://`)
 - [pdf-lib](https://pdf-lib.js.org/) for PDF manipulation
 - Canvas API for PNG manipulation
 - [Bootstrap 5](https://getbootstrap.com/) + [Bootstrap Icons](https://icons.getbootstrap.com/) for styling
